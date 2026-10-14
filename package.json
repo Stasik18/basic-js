@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/AlreadyBored/basic-js/issues"
   },
-  "homepage": "https://github.com/AlreadyBored/basic-js#readme"
+  "homepage": "https://github.com/AlreadyBored/basic-js#readme",
+  "devDependencies": {
+    "prettier": "^3.9.10"
+  }
 }
